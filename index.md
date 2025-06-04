@@ -12,12 +12,12 @@
 <div style="text-align: center">
     <img alt="Westmont App Icon" src="appicon.png" width="100" height="100">
     <h3><a href="https://apps.apple.com/us/app/westmont/id6538728714">Westmont College Mobile App</a></h3>
-    <p>I lead a team at CATLab to create Westmont College's mobile app, which is used by most of the students on campus.</p>
+    <p>I lead a team at CATLab to create Westmont College's mobile app, which is used by most of the students on campus to see news, the dining menu, and the student directory.</p>
 </div>
 <div style="text-align: center">
     <img alt="Manki Icon" src="mankilogo.png" width="100" height="100">
     <h3><a href="https://github.com/MicahHoward/Manki">Manki</a></h3>
-    <p>For my senior seminar project I created an app to help people retain math skills. It utilizes the FSRS(insert link here) algorithm to predict when a user might forget the skill, and then it generates a math problem for them to solve.</p>
+    <p>For my senior project, I created an app inspired by Anki to help people retain math skills, using C++, wxWidgets, and sqlite. It utilizes the <a href="https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm">FSRS</a> algorithm to predict when a user might forget the skill, and then it generates a math problem for them to solve.</p>
 </div>
 <div style="text-align: center">
     <h3>Admissions Automation - </h3>
