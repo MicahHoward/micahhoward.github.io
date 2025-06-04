@@ -5,12 +5,15 @@
 </div>
 
 
-<h1>Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.</h1>
+<h1><br><br>Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.<br><br></h1>
 <p></p>
 <h1 style="text-align: center">Projects:</h1>
-### [Westmont College Mobile App](https://apps.apple.com/us/app/westmont/id6538728714) -
-I lead a team at CATLab to create Westmont College's mobile app, which is used by most of the students on campus.
 
+<div>
+    <img style="float: left" alt="Westmont App Icon" src="appicon.jpg">
+    <h3><a href="https://apps.apple.com/us/app/westmont/id6538728714">Westmont College Mobile App</a></h3>
+    <p>I lead a team at CATLab to create Westmont College's mobile app, which is used by most of the students on campus.</p>
+</div>
 ### [Manki](https://github.com/MicahHoward/Manki) -
 For my senior seminar project I created an app to help people retain math skills. It utilizes the FSRS(insert link here) algorithm to predict when a user might forget the skill, and then it generates a math problem for them to solve.
 
