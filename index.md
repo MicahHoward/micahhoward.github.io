@@ -1,5 +1,11 @@
-<img alt="What I look like" src="headshot.png" width="266" height="400">
-# Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.
+<div>
+    <div style="float: left">
+        <img alt="What I look like" src="headshot.png" width="266" height="400">
+    </div>
+    <div style="float: left">
+        <h1>Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.</h1>
+    </div>
+</div>
 
 
 ## Projects:
