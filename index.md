@@ -1,5 +1,4 @@
-<img src="headshot.png" width="533" height="800">
-![What I look like](headshot.png)
+<img alt="What I look like" src="headshot.png" width="266" height="400">
 # Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.
 
 
