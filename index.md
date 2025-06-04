@@ -2,13 +2,12 @@
     <div style="float: left">
         <img alt="What I look like" src="headshot.png" width="266" height="400">
     </div>
-    <div style="float: left">
-        <h1>Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.</h1>
-    </div>
 </div>
 
 
-## Projects:
+<h1>Hello I'm Micah! I am a software engineer and artist passionate about learning, science, and communication.</h1>
+<p></p>
+<h1 style="text-align: center">Projects:</h1>
 ### [Westmont College Mobile App](https://apps.apple.com/us/app/westmont/id6538728714) -
 I lead a team at CATLab to create Westmont College's mobile app, which is used by most of the students on campus.
 
